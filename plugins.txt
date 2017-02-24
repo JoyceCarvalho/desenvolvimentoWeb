@@ -1,0 +1,25 @@
+Para trabalhar com PHP no editor de texto Sublime de forma que auxilie o trabalho do desenvolvedor o Sublime disponibiliza uma serie de 
+plugins para que o programador tenha uma facilidade na hora do desenvolvimento sem que ocupe muito espaço na memoria do PC e de menos dor
+de cabeça no desenvolvimento de codigos extensos e complexos.
+
+Abaixo segue uma lista de plugins para instalar no seu sublime.
+
+P.S.: Não esqueça de instalar o Package Control, sem ele não há como instalar nenhum dos plugins abaixo
+
+Lista de Plugins:
+1337 Color Scheme;
+3024 Color Scheme;
+Acme Color Scheme;
+Additional PHP Snippets;
+DocBlockr;
+GotoDocumentation;
+JavaScriptNext - ES6 Syntax;
+Phpcs;
+PhpDoc;
+PHPIntel;
+PHPUnit;
+PHPUnit Completions;
+SideBarEnchancements;
+SublimeCodeIntel;
+SublimeLinter;
+TrailingSpaces;
